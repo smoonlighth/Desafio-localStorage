@@ -1,0 +1,18 @@
+body {
+    padding: 50px;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    background-color: #060606e1;
+}
+
+button {
+    color: #060606e1;
+    background-color: white;
+    border-radius: 5px;
+}
+
+input {
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
